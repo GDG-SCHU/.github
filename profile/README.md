@@ -10,4 +10,4 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
-Welcome to the GDG on Campus SCHU GitHub organization! 🚀 Here, you'll find remarkable progress, full of knowledge and potential, made with Google Developer Groups
+Welcome to the GDGoC SCHU GitHub organization! 🚀 Here, you'll find remarkable progress, full of knowledge and potential, made with Google Developer Groups
